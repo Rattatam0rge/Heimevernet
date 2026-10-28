@@ -36,3 +36,5 @@ cd ..
 
 ## Starte Docker
 docker compose up --build
+ELLER
+Starte rett fra Docker om du har Containeren fra før
